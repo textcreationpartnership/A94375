@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prophecy of Humphrey Tindal vicar of VVellenger, shewing the downfall of the clergy, and the woefull and miserable condition of this Kingdome. With some other remarkeable passages.</title>
+            <author>Tindall, Humphrey, 1549-1614.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94375</idno>
+            <idno type="STC">Wing T1297</idno>
+            <idno type="STC">Thomason E154_12</idno>
+            <idno type="STC">ESTC R18983</idno>
+            <idno type="EEBO-CITATION">99860525</idno>
+            <idno type="PROQUEST">99860525</idno>
+            <idno type="VID">112647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112647)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prophecy of Humphrey Tindal vicar of VVellenger, shewing the downfall of the clergy, and the woefull and miserable condition of this Kingdome. With some other remarkeable passages.</title>
+                  <author>Tindall, Humphrey, 1549-1614.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title page has printer's device (McK. 395).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112647:1"/>
+            <pb facs="tcp:112647:1" rendition="simple:additions"/>
+            <p>THE PROPHECY OF HVMPHREY TINDAL Vicar of VVellenger, SHEWING THE DOWNFALL of the Clergy, and the woefull and miſerable condition of this Kingdome.</p>
+            <p>With ſome other remarkeable paſſages.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I.M.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112647:2"/>
+            <pb n="3" facs="tcp:112647:2"/>
+            <head>THE PROPHECY OF HUMPHREY TINDAL Vicar of <hi>Wellenger.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">T</seg>HE time will come as true as the Creede,</l>
+            <l>Of Prieſts and Clerkes we ſhall have no need,</l>
+            <l>Churches ſhall fall, it ſhall be no wonder,</l>
+            <l>For the Clergy and Laity ſhall be aſunder,</l>
+            <l>And praying for Founders ſhall paſſe away,</l>
+            <l>And holy Writs ſhall ſhew us what to ſay,</l>
+            <l>The Churches where Images were wonten to be ſet,</l>
+            <l>With lively Letters they ſhall be writ,</l>
+            <l>To many mens hearts as heavy as lead,</l>
+            <l>Both young and old may them read,</l>
+            <l>But God of his Preheminence, and of his high Throne,</l>
+            <l>All honor ſhall be to him alone;</l>
+            <pb n="4" facs="tcp:112647:3"/>
+            <l> Foxes ſhall fall, and rights ſhall appeare,</l>
+            <l>And thus it ſhall continue from yeare, to yeare,</l>
+            <l>But at the laſt, a wonder to tell,</l>
+            <l>There ſhall be ſtirr'd ſtrife, with many a battle,</l>
+            <l>For a double danger ſhall be the cauſe,</l>
+            <l>For often changing, and breaking of Lawes,</l>
+            <l>The other if you reade arights,</l>
+            <l>The loſſe of Lords, Kings, and Knights;</l>
+            <l>For woe worth the time, and woe worth the ſorrow,</l>
+            <l>Miſchiefe dates end, it ſhall be no borrow;</l>
+            <l>A Maiden in tower ſhall have in hand,</l>
+            <l>To rule, and governe this her Iſland;</l>
+            <l>Her Lords by righteouſneſſe rule ſhall ſhe,</l>
+            <l>At length of her great Realme diſcharged ſhee ſhall be,</l>
+            <l>For Barons, and Lords a promiſe ſhall make,</l>
+            <l>Of Gods Holy Word a part to take,</l>
+            <l>But Prelates in pride their luſt to fulfill,</l>
+            <l>Shall cauſe thereby, much miſcheife, and ill,</l>
+            <l>Which may ſley both Prieſt, and Clarke,</l>
+            <l>They never heard ſuch a peece of warke,</l>
+            <l>For happy ſhall be be then, which is too trew,</l>
+            <l>That bids <hi>England</hi> farewell, and adue,</l>
+            <l>For ſorrowes ſhal come, both to high, and low,</l>
+            <l>How one ſhall truſt another none ſhall know,</l>
+            <l>For then Ladies with ſorrowes ſhall ſing,</l>
+            <l>Widdowes and Maids their hands ſhall wring,</l>
+            <l>Children at their paps, ſhall die in the ſtreete,</l>
+            <pb n="5" facs="tcp:112647:3"/>
+            <l> All kind of creatures ſhall mourne or weepe,</l>
+            <l>Woe and alas then may be ſaid,</l>
+            <l>All kinde of paſtimes downe ſhall be laid,</l>
+            <l>Then Caſtles, and Townes, and pleaſant buildings,</l>
+            <l>Shall be deſtroyed, and come to their endings,</l>
+            <l>For who ſo be in bed over night,</l>
+            <l>Next morning ſhall be preſt to fight,</l>
+            <l>Then great ſorrow, hunger, and paine,</l>
+            <l>To eate dead folkes, they ſhall be faine,</l>
+            <l>Woe worth the ſinne that this cauſe ſhall be</l>
+            <l>To cauſe God thus to ſhew his cruelty,</l>
+            <l>But a voyce ſhall come both night and day,</l>
+            <l>Crying to Heaven to call you away;</l>
+            <l>But ſorrow, and paine for our offences,</l>
+            <l>With battle, famine, and peſtilences,</l>
+            <l>As a diſſolv'd Land brought ſhall it be,</l>
+            <l>Who knowes more none but hee,</l>
+            <l>Then a peace there ſhall be pretended,</l>
+            <l>That peace may be diſſembled,</l>
+            <l>That peace may be removed,</l>
+            <l>That peace will folly be proved,</l>
+            <l>But now greater ſights will appeare,</l>
+            <l>great <hi>Mars</hi> omnipotent</l>
+            <l>will be very diligent,</l>
+            <l>His bloody brands of ſteele to whet upon their ſide,</l>
+            <l>that we ſhall them deride.</l>
+            <l>This <hi>Mars</hi> with cruell fauction with Nation utter ruine,</l>
+            <l>that all <hi>England</hi> ſcituation, ſhall be with op<g ref="char:EOLhyphen"/>preſſion,</l>
+            <pb n="6" facs="tcp:112647:4"/>
+            <l>and ſtill reade on their paſſion.</l>
+            <l>
+               <hi>Flaunders</hi> ſhall riſe with <hi>France,</hi>
+            </l>
+            <l>with Speare, Sheild, Bill and Lance,</l>
+            <l>to fight a double dance,</l>
+            <l>con<g ref="char:EOLhyphen"/>federed with alliance,</l>
+            <l>to offer the defiance,</l>
+            <l>
+               <hi>Spaine</hi> ſhall imploy the <hi>Britaines</hi> to annoy,</l>
+            <l>the <hi>Scots</hi> us to deſtroy,</l>
+            <l>the <hi>Welchmen</hi> to annoy,</l>
+            <l>the Dane to pluck and pull,</l>
+            <l>And all this reſurrection,</l>
+            <l>ſhall put to their full ſection,</l>
+            <l>to bring thee to deſtruction,</l>
+            <l>
+               <hi>England</hi> take this admonition,</l>
+            <l>Be wiſe and change thy condition,</l>
+            <l>Doubt not but thinke it ſure</l>
+            <l>This ſtorme thou ſhalt indure,</l>
+            <l>With heart confeſſe thee,</l>
+            <l>And to Heaven adreſſe thee</l>
+            <l>For <hi>Engliſh</hi> name ſhall cleere away</l>
+            <l>Out of this Land for ever and aye,</l>
+            <l>When <hi>Rome</hi> is removed into <hi>England,</hi>
+            </l>
+            <l>And every Prieſt the Popes power ſhall have in hand,</l>
+            <l>Betwixt ſix, and three (as I underſtand)</l>
+            <l>The Battle ſhall be in <hi>Britaine</hi> Land.</l>
+            <l>When pride is moſt preſt, and lechery moſt rife, and Knights and knaves clad both in one clothing the Church awleſſe, and the Land lawleſſe, by the yeere of Chriſt to come and gon,</l>
+            <l>In the Land of <hi>Albion</hi> ſhall be much confuſion.</l>
+            <l>Courtiers ſhall be taxed, and great buffets have
+<pb n="7" facs="tcp:112647:4"/>with flattering and fearing their Prince they pleaſe, and againſt the Law they ſhall rove, and cauſe the Commons to be at great diſcord.</l>
+            <l>A dreadfull Dragon with a red roſe of great fame,</l>
+            <l>A baſtard in wedlocke borne ſhall bee</l>
+            <l>The Crowne to obtaine, ſhall challenge by name,</l>
+            <l>
+               <hi>Tunc veniet puer vbi nomen ille.</hi>
+            </l>
+            <l>The ſhorteſt and longeſt night, that ſhall be found in all the whole yeare,</l>
+            <l>There ſhall be challenging to fight, great defeace to ſee and heare;</l>
+            <l>
+               <hi>Penticoſt</hi> night ſhall be clothed in white in token of lightning,</l>
+            <l>For to be at <hi>Candlemas</hi> when torches be light, a new morning for to be,</l>
+            <l>Afterward carried out of the <hi>North,</hi> and for to meete at <hi>Ravenſpurgh,</hi>
+            </l>
+            <l>
+               <hi>S.</hi> and <hi>P.</hi> ſhall ſtand in <hi>Coſfield</hi> haven till ſuch time as the keeper of the Crowne</l>
+            <l>Shall die upon his brothers ſword point, then ſhall all be turn'd upſide downe;</l>
+            <l>Then a Lyon come out of the <hi>Weſt,</hi> in harneſſe to ſtir them for to ceaſe,</l>
+            <l>But there ſhall be no manner of reſt, untill twenty hundred ſteeds run maſterleſſe away,</l>
+            <l>A wet Summer before this ſhall be;</l>
+            <l>Thus gueſſed <hi>Humphry Tindale</hi> Vicar of <hi>Wellenger</hi> of his propheſy.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
